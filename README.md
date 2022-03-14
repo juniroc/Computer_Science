@@ -1,18 +1,17 @@
 # Network
-[Home_server](network 6b1eb/Home_serve 0a179.md)
+[Home server](network%206b1eb/Home_serve%200a179.md)
 
-[Domain_Name_System](network 6b1eb/Domain Nam 4a3cf.md)
+[Domain Name System](network%206b1eb/Domain_Nam%204a3cf.md)
 
-[OSI_7_Layer](network 6b1eb/OSI 7 Laye 25cdb.md)
+[OSI 7 Layer 계층](network%206b1eb/OSI_7_Laye%2025cdb.md)
 
-[TCP&NAT:Transport_Layer-L4](network 6b1eb/TELNET & S 6403a.md)
+[TCP & NAT (Transport Layer-L4)](network%206b1eb/TCP_&_NAT_%20263a9.md)
 
-[TELNET&SSH](network 6b1eb/TELNET & S 6403a.md)
+[TELNET & SSH](network%206b1eb/TELNET_&_S%206403a.md)
 
-[HTTP](network 6b1eb/HTTP 24582.md)
+[HTTP](network%206b1eb/HTTP%2024582.md)
 
-[K8s_Network](network 6b1eb/K8s Networ a4c3f.md)
-
+[K8s Network ](network%206b1eb/K8s_Networ%20a4c3f.md)
 
 ---
 # OS
